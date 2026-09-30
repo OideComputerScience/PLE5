@@ -1,6 +1,6 @@
-#Irene Stone
+
 #Accessing ThingSpeak from Thonny
-#Sept 2023
+
 
 import urllib.request
 
