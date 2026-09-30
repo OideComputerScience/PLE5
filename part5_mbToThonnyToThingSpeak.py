@@ -1,6 +1,6 @@
-#Irene Stone
+
 #Accessing thingSpeak from Thonny
-#Sept 2023
+
 
 import time
 import serial
